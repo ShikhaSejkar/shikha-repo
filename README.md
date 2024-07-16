@@ -1,4 +1,4 @@
 # shikha-repo
 Hi,this is my first Git Repository.
 <br>
-Author - Shikha Sejkar.
+Author - Shikha Sejkar (JSK).
